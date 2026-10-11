@@ -4,7 +4,7 @@ Race other players to complete Minecraft advancements.
 
 **[Download](https://github.com/AdvancementAuction/client-releases/releases)**
 
-The current download is a test build. Automatic updates are not enabled yet.
+The first release is coming soon.
 
 ## Install
 
