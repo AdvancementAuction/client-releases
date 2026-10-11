@@ -2,7 +2,7 @@
 
 Race other players to complete Minecraft advancements.
 
-**[Download the dev playtest](https://github.com/AdvancementAuction/client-releases/releases/tag/v0.0.78-dev.1)**
+**[Download the dev playtest](https://github.com/AdvancementAuction/client-releases/releases/tag/v0.0.80-dev.1)**
 
 Requires beta access in the **AB - Dev** Discord server.
 
